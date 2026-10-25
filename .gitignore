@@ -1,0 +1,18 @@
+# Python önbellek dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Sanal ortamlar
+.venv/
+venv/
+env/
+
+# IDE yapılandırmaları
+.idea/
+.vscode/
+
+# İşletim sistemi kalıntıları
+.DS_Store
+Thumbs.db
